@@ -1,0 +1,15 @@
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\bin\Debug\net8.0\ECommerceSearch.exe
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\bin\Debug\net8.0\ECommerceSearch.deps.json
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\bin\Debug\net8.0\ECommerceSearch.runtimeconfig.json
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\bin\Debug\net8.0\ECommerceSearch.dll
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\bin\Debug\net8.0\ECommerceSearch.pdb
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\obj\Debug\net8.0\ECommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\obj\Debug\net8.0\ECommerceSearch.AssemblyInfoInputs.cache
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\obj\Debug\net8.0\ECommerceSearch.AssemblyInfo.cs
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\obj\Debug\net8.0\ECommerceSearch.csproj.CoreCompileInputs.cache
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\obj\Debug\net8.0\ECommerceSearch.sourcelink.json
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\obj\Debug\net8.0\ECommerceSearch.dll
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\obj\Debug\net8.0\refint\ECommerceSearch.dll
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\obj\Debug\net8.0\ECommerceSearch.pdb
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\obj\Debug\net8.0\ECommerceSearch.genruntimeconfig.cache
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\E Commerce Platform Search Function\ECommerceSearch\ECommerceSearch\obj\Debug\net8.0\ref\ECommerceSearch.dll

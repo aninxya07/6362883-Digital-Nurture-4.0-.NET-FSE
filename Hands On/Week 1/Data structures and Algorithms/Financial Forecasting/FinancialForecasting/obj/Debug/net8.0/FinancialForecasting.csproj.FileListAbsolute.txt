@@ -1,0 +1,15 @@
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\bin\Debug\net8.0\FinancialForecasting.exe
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\bin\Debug\net8.0\FinancialForecasting.deps.json
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\bin\Debug\net8.0\FinancialForecasting.runtimeconfig.json
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\bin\Debug\net8.0\FinancialForecasting.dll
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\bin\Debug\net8.0\FinancialForecasting.pdb
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.AssemblyInfoInputs.cache
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.AssemblyInfo.cs
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.sourcelink.json
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.dll
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\refint\FinancialForecasting.dll
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.pdb
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.genruntimeconfig.cache
+D:\Cognizant\Assignments\Hands On\Week 1\Data structures and Algorithms\Financial Forecasting\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\ref\FinancialForecasting.dll

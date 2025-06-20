@@ -1,0 +1,15 @@
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\bin\Debug\net8.0\SingletonPatternExample.exe
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\bin\Debug\net8.0\SingletonPatternExample.deps.json
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\bin\Debug\net8.0\SingletonPatternExample.runtimeconfig.json
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\bin\Debug\net8.0\SingletonPatternExample.dll
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\bin\Debug\net8.0\SingletonPatternExample.pdb
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.AssemblyInfoInputs.cache
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.AssemblyInfo.cs
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.sourcelink.json
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.dll
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\obj\Debug\net8.0\refint\SingletonPatternExample.dll
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.pdb
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.genruntimeconfig.cache
+D:\Cognizant\Assignments\Hands On\Week 1\Design principles & Patterns\SingletonPatternExample\SingletonPatternExample\obj\Debug\net8.0\ref\SingletonPatternExample.dll
