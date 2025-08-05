@@ -1,4 +1,5 @@
 import React from 'react';
+import Post from './Post';
 
 class Posts extends React.Component {
   constructor(props) {
@@ -13,12 +14,9 @@ class Posts extends React.Component {
     fetch('https://jsonplaceholder.typicode.com/posts')
       .then((response) => response.json())
       .then((data) => {
-        // Use plain objects instead of Post class
-        const postList = data.slice(0, 10).map((p) => ({
-          id: p.id,
-          title: p.title,
-          body: p.body,
-        }));
+        const postList = data.slice(0, 10).map(
+          (p) => new Post(p.id, p.title, p.body)
+        );
         this.setState({ posts: postList });
       })
       .catch((error) => {

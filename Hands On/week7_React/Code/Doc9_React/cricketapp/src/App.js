@@ -6,7 +6,7 @@ import EvenPlayers from "./components/EvenPlayers";
 import ListofIndianPlayers from "./components/ListofIndianPlayers";
 
 export default function App() {
-  const flag = false; // change to false to see other view
+  const flag = false; // change to true to see other view
 
   const players = [
     { name: "Virat Kohli", score: 85 },
@@ -21,9 +21,6 @@ export default function App() {
     { name: "Bhuvneshwar Kumar", score: 40 },
     { name: "Yuzvendra Chahal", score: 72 }
   ];
-
-  const IndianTeam = ["Virat", "Rohit", "Gill", "Rahul", "Pant", "Hardik"];
-  const IndianPlayers = ["Kohli", "Rohit", "Pant"];
 
   if (flag === true) {
     return (
@@ -41,15 +38,15 @@ export default function App() {
       <div>
         <h1>Indian Team</h1>
         <h2>Odd Players</h2>
-        <OddPlayers team={IndianTeam} />
+        <OddPlayers players={players} />
 
         <hr />
         <h2>Even Players</h2>
-        <EvenPlayers team={IndianTeam} />
+        <EvenPlayers players={players} />
 
         <hr />
         <h2>List of Indian Players Merged:</h2>
-        <ListofIndianPlayers IndianPlayers={IndianPlayers} />
+        <ListofIndianPlayers players={players} />
       </div>
     );
   }

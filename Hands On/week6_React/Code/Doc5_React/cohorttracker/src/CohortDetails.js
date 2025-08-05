@@ -2,25 +2,26 @@ import React from 'react';
 import styles from './CohortDetails.module.css';
 
 const CohortDetails = ({ cohort }) => {
-  const isOngoing = cohort.status.toLowerCase() === 'ongoing';
+  const isOngoing = cohort.currentStatus.toLowerCase() === 'ongoing';
+
 
   return (
     <div className={styles.box}>
       <h3 style={{ color: isOngoing ? 'green' : 'blue' }}>
-        {cohort.name}
+        {cohort.cohortCode} - {cohort.technology}
       </h3>
       <dl>
         <dt>Started On</dt>
         <dd>{cohort.startDate}</dd>
 
         <dt>Current Status</dt>
-        <dd>{cohort.status}</dd>
+        <dd>{cohort.currentStatus}</dd>
 
         <dt>Coach</dt>
-        <dd>{cohort.coach}</dd>
+        <dd>{cohort.coachName}</dd>
 
         <dt>Trainer</dt>
-        <dd>{cohort.trainer}</dd>
+        <dd>{cohort.trainerName}</dd>
       </dl>
     </div>
   );
