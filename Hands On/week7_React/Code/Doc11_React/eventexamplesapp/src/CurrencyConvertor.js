@@ -8,7 +8,7 @@ export default function CurrencyConvertor() {
     event.preventDefault();
 
     if (currency.toLowerCase() === "euro") {
-      const euroAmount = amount * 80; 
+      const euroAmount = (amount * 0.0099).toFixed(2);  // INR to Euro
       alert(`Converting to ${currency} Amount is ${euroAmount}`);
     } else {
       alert("Currency not supported");
