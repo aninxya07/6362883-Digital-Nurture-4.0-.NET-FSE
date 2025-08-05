@@ -5,7 +5,7 @@ import imgWeWork from "./images/wework.jpg";
 
 function App() {
   // JSX heading element
-  const heading = <h1 style={{ fontFamily: "Arial, sans-serif" }}>Office Space Rental App</h1>;
+  const heading = <h1 style={{ fontFamily: "Arial, sans-serif" }}>Office Space, at Affordable Range</h1>;
 
   // List of office objects
   const officeList = [
