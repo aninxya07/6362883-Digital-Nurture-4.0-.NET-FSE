@@ -1,4 +1,3 @@
-// src/App.js
 import React, { useState } from "react";
 import CurrencyConvertor from "./CurrencyConvertor";
 
@@ -32,7 +31,7 @@ export default function App() {
 
   return (
     <div>
-      <p>$</p>
+      <h3>{count}</h3>
 
       <button onClick={handleIncrementClick}>Increment</button>
       <br />
