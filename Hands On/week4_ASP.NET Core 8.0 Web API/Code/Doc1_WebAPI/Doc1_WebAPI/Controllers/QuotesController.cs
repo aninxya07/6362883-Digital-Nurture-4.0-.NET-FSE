@@ -6,7 +6,7 @@ using System.Linq;
 namespace Doc1_WebAPI.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class QuotesController : ControllerBase
     {
         // Hardcoded list of quotes

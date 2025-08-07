@@ -1,6 +1,7 @@
 import React from "react";
 
-export default function BookDetails(props) {
+const BookDetails = (props) => {
+  // bookdet is a JSX element
   const bookdet = (
     <ul>
       {props.books.map((book) => (
@@ -19,3 +20,5 @@ export default function BookDetails(props) {
     </div>
   );
 }
+
+export default BookDetails;

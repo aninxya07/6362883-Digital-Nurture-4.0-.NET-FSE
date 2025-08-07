@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function BlogDetails(props) {
+const BlogDetails = (props) => {
   // Conditional Rendering (Ternary Operator)
   return (
     <div className="v1">
@@ -19,3 +19,5 @@ export default function BlogDetails(props) {
     </div>
   );
 }
+
+export default BlogDetails;

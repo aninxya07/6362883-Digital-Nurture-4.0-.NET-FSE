@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function CourseDetails(props) {
+const CourseDetails = (props) => {
   // Conditional Rendering (&& operator)
   return (
     <div className="mystyle1">
@@ -15,3 +15,5 @@ export default function CourseDetails(props) {
     </div>
   );
 }
+
+export default CourseDetails

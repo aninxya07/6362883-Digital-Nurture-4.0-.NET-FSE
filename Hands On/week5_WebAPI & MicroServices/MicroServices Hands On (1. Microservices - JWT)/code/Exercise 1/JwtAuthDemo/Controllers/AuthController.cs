@@ -1,8 +1,11 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
+using System;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using JwtAuthDemo.Models;
+using Microsoft.Extensions.Configuration;
 
 namespace JwtAuthDemo.Controllers
 {
@@ -10,12 +13,19 @@ namespace JwtAuthDemo.Controllers
     [Route("api/[controller]")]
     public class AuthController : ControllerBase
     {
+        private readonly IConfiguration _configuration;
+
+        public AuthController(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
+
         [HttpPost("login")]
         public IActionResult Login([FromBody] LoginModel model)
         {
             if (IsValidUser(model))
             {
-                var token = GenerateJwtToken(model.Username!);
+                var token = GenerateJwtToken(model.Username);
                 return Ok(new { Token = token });
             }
             return Unauthorized();
@@ -33,14 +43,14 @@ namespace JwtAuthDemo.Controllers
                 new Claim(ClaimTypes.Name, username)
             };
 
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("ThisIsASuperSecureKey1234567890!!"));
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
             var token = new JwtSecurityToken(
-                issuer: "MyAuthServer",
-                audience: "MyApiUsers",
+                issuer: _configuration["Jwt:Issuer"],
+                audience: _configuration["Jwt:Audience"],
                 claims: claims,
-                expires: DateTime.Now.AddMinutes(60),
+                expires: DateTime.Now.AddMinutes(Convert.ToDouble(_configuration["Jwt:ExpiresInMinutes"])),
                 signingCredentials: creds
             );
 

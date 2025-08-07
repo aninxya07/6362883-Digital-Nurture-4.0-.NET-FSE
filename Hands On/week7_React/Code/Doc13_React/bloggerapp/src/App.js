@@ -4,7 +4,7 @@ import BookDetails from "./BookDetails";
 import BlogDetails from "./BlogDetails";
 import CourseDetails from "./CourseDetails";
 
-export default function App() {
+const App = () => {
   const books = [
     { id: 1, bname: "Master React", price: 670 },
     { id: 2, bname: "Deep Dive into Angular 11", price: 800 },
@@ -39,3 +39,5 @@ export default function App() {
     </div>
   );
 }
+
+export default App;

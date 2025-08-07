@@ -8,7 +8,7 @@ namespace JwtAuthDemo.Controllers
     [Route("api/[controller]")]
     public class SecureController : ControllerBase
     {
-        [HttpGet]
+        [HttpGet("data")]
         public IActionResult GetSecureData()
         {
             return Ok("You have accessed a protected endpoint!");
